@@ -56,4 +56,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Brenno%20Paiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenno-paiva)](https://www.linkedin.com/in/brenno-paiva)
 [![Gmail Badge](https://img.shields.io/badge/-brennopaivag@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brennopaivag@gmail.com)](mailto:brennopaivag@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/brennopaivag?label=follow&style=social)](https://github.com/brennopaivag)
+[![GitHub](https://img.shields.io/github/followers/brennopaivag?label=follow&style=social)](https://github.com/BrennoGuimaraes)
