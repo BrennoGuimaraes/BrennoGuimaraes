@@ -52,15 +52,6 @@
 
 ---
 
-<br/>
-
-<a href="https://github.com/BrennoGuimaraes" title="Perfil do Brenno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrennoGuimaraes&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoGuimaraes&theme=dracula&layout=compact&langs_count=8" />
-</a>
-
----
-
 ## 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Brenno%20Paiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenno-paiva)](https://www.linkedin.com/in/brenno-paiva)
