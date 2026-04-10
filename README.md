@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=brennopaivag&color=006bed)
+![](https://komarev.com/ghpvc/?username=BrennoGuimaraes&color=006bed)
 
 ## Sobre mim
 
